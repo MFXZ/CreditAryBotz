@@ -1,12 +1,12 @@
 {
-    "ownerNumber": "994408465157@s.whatsapp.net",
-    "ownerName": "Sini",
-    "botName": "Ary Bot",
-    "footer": "Ary ID",
-    "sessionName": "kayy-md",
+    "ownerNumber": "628981614707",
+    "ownerName": "MFX",
+    "botName": "MFC BOT",
+    "footer": "MFC BOT",
+    "sessionName": "session",
     "pathimg": "./media/logo.jpg",
     "lolkey": "KaysaS",
-    "youtobe": "https://youtube.com/c/AryBotz",
+    "youtobe": "",
     "gamewaktu": 90,
     "limitCount": 25,
     "gcount": {
@@ -15,6 +15,6 @@
     },
     "sticker": {
         "packname": "Created By",
-        "author": "YT aryBotz"
+        "author": "MFC BOT"
     }
 }
